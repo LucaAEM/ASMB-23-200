@@ -128,7 +128,7 @@ install.packages(c("forecast", "wavelets", "WaveletComp", "waveslim", "fBasics")
 # install.packages("path/to/wmtsa_2.0-3.tar.gz", repos = NULL, type = "source")
 ```
 
-> Some packages like `fpp` and `wmtsa` are archived; the user may need to install from local `.tar.gz` files provided in this repository or CRAN archives.
+> Package `wmtsa` and its dependencies is archived; the user may need to install from local `.tar.gz` files provided in this repository or CRAN archives.
 
 ---
 
